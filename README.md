@@ -178,7 +178,7 @@ v2全部内容 + 重大升级：
 | **3个实践练习** | 一步步教你把框架应用到实际问题 |
 | **动态更新** | 持续根据用户反馈优化 |
 
-**🔑 [¥7.5购买v3 — 中文版](YOUR_GUMROAD_LINK_ZH)**
+**🔑 [¥7.5购买v3 — 中文版](https://lydonite.gumroad.com/l/muskav3cn)**
 
 ---
 
@@ -237,7 +237,7 @@ v2全部内容 + 重大升级：
 
 ### v3（¥7.5）
 
-1. **[立即购买¥7.5](YOUR_GUMROAD_LINK_ZH)**
+1. **[立即购买¥7.5](https://lydonite.gumroad.com/l/muskav3cn)**
 2. 邮件收到私钥
 3. 在AI Agent中输入私钥，解锁完整v3内容
 
