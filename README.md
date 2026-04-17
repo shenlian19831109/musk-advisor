@@ -51,7 +51,7 @@ v2 Everything + Major Upgrades:
 | **3 Practice Exercises** | Apply the framework to real problems with step-by-step guidance |
 | **Dynamic Updates** | Continuously improving based on user feedback |
 
-**🔑 [Get v3 for $1 — English](YOUR_GUMROAD_LINK_EN)**
+**🔑 [Get v3 for $1 — English](https://lydonite.gumroad.com/l/muskav3eng)**
 
 ---
 
@@ -110,7 +110,7 @@ Musk's Framework:
 
 ### For v3 ($1)
 
-1. **[Purchase for $1](YOUR_GUMROAD_LINK_EN)**
+1. **[Purchase for $1](https://lydonite.gumroad.com/l/muskav3eng)**
 2. Receive license key via email
 3. Use with your AI Agent — input the key to unlock full v3 content
 
