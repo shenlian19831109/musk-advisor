@@ -104,15 +104,35 @@ Musk's Framework:
 
 ### For v2 (Free)
 
-1. Download the `SKILL.md` file
+1. Download the `SKILL.md` file (English) or `SKILL_ZH.md` (Chinese)
 2. Place it in your AI Agent's skills directory
 3. Ask questions about business, strategy, AI, or self-improvement
 
-### For v3 ($1)
+### For v3 ($1) — Full Version
 
 1. **[Purchase for $1](https://lydonite.gumroad.com/l/muskav3eng)**
 2. Receive license key via email
-3. Use with your AI Agent — input the key to unlock full v3 content
+3. When you ask questions, input your license key first:
+
+```
+My key is: sk_musk_v3_en_xxxxxxxxxxxx
+```
+
+The AI will automatically verify and unlock the full v3 content.
+
+---
+
+## v2 vs v3 — What's the Difference?
+
+| Feature | v2 (Free) | v3 ($1) |
+|---------|-----------|---------|
+| Core Thinking Framework | ✅ | ✅ |
+| Case Studies | Basic outline | 5 complete deep dives |
+| Thinking Tools | Basic | 4 ready-to-use templates |
+| Cross-Domain Comparison | ❌ | ✅ |
+| Blind Spots Analysis | ❌ | ✅ |
+| Practice Exercises | ❌ | ✅ |
+| License | MIT | Proprietary |
 
 ---
 
@@ -235,11 +255,31 @@ v2全部内容 + 重大升级：
 2. 放入你的 AI Agent 的 skills 目录
 3. 询问商业、战略、AI或自我成长相关问题
 
-### v3（¥7.5）
+### v3（¥7.5）— 完整版
 
 1. **[立即购买¥7.5](https://lydonite.gumroad.com/l/muskav3cn)**
 2. 邮件收到私钥
-3. 在AI Agent中输入私钥，解锁完整v3内容
+3. 提问时，先输入私钥：
+
+```
+我的密钥是：sk_musk_v3_zh_xxxxxxxxxxxx
+```
+
+AI会自动验证并解锁完整v3内容。
+
+---
+
+## v2 vs v3 — 区别是什么？
+
+| 功能 | v2（免费） | v3（¥7.5） |
+|------|-----------|-------------|
+| 核心思维框架 | ✅ | ✅ |
+| 案例分析 | 基本框架 | 5个完整深度复盘 |
+| 思维工具 | 基础 | 4个可直接使用模板 |
+| 跨领域对比 | ❌ | ✅ |
+| 盲点分析 | ❌ | ✅ |
+| 实践练习 | ❌ | ✅ |
+| 协议 | MIT开源 | 版权保护 |
 
 ---
 
