@@ -110,15 +110,12 @@ Musk's Framework:
 
 ### For v3 ($1) — Full Version
 
-1. **[Purchase for $1](https://lydonite.gumroad.com/l/muskav3eng)**
-2. Receive license key via email
-3. When you ask questions, input your license key first:
+1. **[Purchase for $1 on Gumroad](https://lydonite.gumroad.com/l/muskav3eng)**
+2. After purchase, download the v3 skill file from Gumroad
+3. Drag the downloaded file into your AI assistant
+4. Done! Start using the full v3 content
 
-```
-My key is: sk_musk_v3_en_xxxxxxxxxxxx
-```
-
-The AI will automatically verify and unlock the full v3 content.
+**No key needed — purchase directly unlocks the file.**
 
 ---
 
@@ -132,7 +129,7 @@ The AI will automatically verify and unlock the full v3 content.
 | Cross-Domain Comparison | ❌ | ✅ |
 | Blind Spots Analysis | ❌ | ✅ |
 | Practice Exercises | ❌ | ✅ |
-| License | MIT | Proprietary |
+| Download | GitHub | Gumroad |
 
 ---
 
@@ -151,9 +148,14 @@ The AI will automatically verify and unlock the full v3 content.
 
 ---
 
----
+## Resource Links
 
-# 中文
+| Resource | Language | Description |
+|---------|----------|-------------|
+| [v2 Full](SKILL.md) | English | MIT License - Free |
+| [v2 Full](SKILL_ZH.md) | Chinese | MIT License - Free |
+| [v3 Full](en/SKILL_V3.md) | English | Purchase on Gumroad |
+| [v3 Full](zh/SKILL_V3_ZH.md) | Chinese | Purchase on Gumroad |
 
 ## 是什么？
 
@@ -258,14 +260,11 @@ v2全部内容 + 重大升级：
 ### v3（¥7.5）— 完整版
 
 1. **[立即购买¥7.5](https://lydonite.gumroad.com/l/muskav3cn)**
-2. 邮件收到私钥
-3. 提问时，先输入私钥：
+2. 购买后直接从Gumroad下载v3文件
+3. 把文件拖进AI助手即可
+4. 开始使用完整v3内容
 
-```
-我的密钥是：sk_musk_v3_zh_xxxxxxxxxxxx
-```
-
-AI会自动验证并解锁完整v3内容。
+**无需密钥 — 购买后直接下载使用。**
 
 ---
 
@@ -279,7 +278,7 @@ AI会自动验证并解锁完整v3内容。
 | 跨领域对比 | ❌ | ✅ |
 | 盲点分析 | ❌ | ✅ |
 | 实践练习 | ❌ | ✅ |
-| 协议 | MIT开源 | 版权保护 |
+| 下载方式 | GitHub | Gumroad |
 
 ---
 
@@ -295,17 +294,17 @@ AI会自动验证并解锁完整v3内容。
 
 | 资源 | 语言 | 说明 |
 |------|------|------|
-| [v2 完整版](SKILL.md) | English | MIT开源 |
-| [v2 完整版](SKILL_ZH.md) | 中文 | MIT开源 |
-| [v3 预览](SKILL_V3_PREVIEW.md) | English | 部分内容 |
-| [v3 预览](SKILL_V3_PREVIEW_ZH.md) | 中文 | 部分内容 |
+| [v2 完整版](SKILL.md) | English | MIT开源 - 免费 |
+| [v2 完整版](SKILL_ZH.md) | 中文 | MIT开源 - 免费 |
+| [v3 完整版](en/SKILL_V3.md) | English | Gumroad购买 |
+| [v3 完整版](zh/SKILL_V3_ZH.md) | 中文 | Gumroad购买 |
 
 ---
 
 ## 版权说明
 
 - **v2**：MIT开源协议 — 可自由使用、复制、修改和分发
-- **v3**：版权保护 — 需要有效私钥
+- **v3**：版权保护 — 购买后获得使用权限
 
 ---
 
